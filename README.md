@@ -1,4 +1,4 @@
-# zyx-element
+# stupidElement
 
 ## Project setup
 ```
